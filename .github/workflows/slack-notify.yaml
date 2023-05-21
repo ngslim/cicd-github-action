@@ -12,7 +12,6 @@ jobs:
         env:
           SLACK_CHANNEL: github-notification
           SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
-          SLACK_ICON: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
           SLACK_MESSAGE: ${{ github.event.push.head_commit.message }}
           SLACK_TITLE: ${{ github.event.push.head_commit.title }}
           SLACK_USERNAME: Github
