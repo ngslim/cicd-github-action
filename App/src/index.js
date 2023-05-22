@@ -51,4 +51,4 @@ app.get('/', function (req, res) {
   res.redirect('/');
 });
 
-app.listen(port, () => console.log(`Listening at http://localhost:${port}`));
+app.listen(process.env.PORT || 3000)
