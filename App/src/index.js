@@ -1,9 +1,9 @@
 const path = require('path');
 const express = require('express');
-const morgan = require('morgan');
+//const morgan = require('morgan');
 const { engine } = require('express-handlebars');
 const app = express();
-const port = 8888;
+const port = 3000;
 const session = require('express-session');
 const helpers = require('handlebars-helpers')();
 
