@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const applyController = require('../app/controllers/applyController');
+const applyController = require('../app/controllers/ApplyController');
 
 router.use('/my-applies', applyController.my_applies);
 router.use('/apply-job', applyController.apply_job);
