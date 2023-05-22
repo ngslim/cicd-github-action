@@ -2,7 +2,7 @@ name: katalon-automate
 on:
   push:
     branches: [main]
-job:
+jobs:
   katalon-automate:
     name: Katalon Automate
     runs-on: ubuntu-latest
