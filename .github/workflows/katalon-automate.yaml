@@ -15,3 +15,8 @@ jobs:
           version: '7.5.5'
           projectPath: '${{ github.workspace }}'
           args: '-noSplash -retry=0 -browserType="Chrome" -testSuiteCollectionPath="Test Suites/Basic Test Suite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
+      - name: Upload logs
+        uses: actions/upload-artifact@v3
+        with:
+          name: logs-all
+          path: /home/runner/.katalon/7.5.5/Katalon_Studio_Engine_Linux_64-7.5.5/configuration/**
