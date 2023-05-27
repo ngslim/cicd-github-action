@@ -32,3 +32,4 @@ jobs:
         env:
           USER_EMAIL: ${{secrets.MAIL_USERNAME}}
           USER_PASSWORD: ${{secrets.MAIL_PASSWORD}}
+        run: python email_sending.py
