@@ -32,4 +32,4 @@ jobs:
         env:
           USER_EMAIL: ${{secrets.MAIL_USERNAME}}
           USER_PASSWORD: ${{secrets.MAIL_PASSWORD}}
-        run: python .github/workflows/email_sending.py
+        run: python ../.github/workflows/email_sending.py
