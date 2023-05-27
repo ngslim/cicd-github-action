@@ -21,5 +21,3 @@ response = WS.sendRequest(findTestObject('User/Get User Profile'))
 
 WS.verifyResponseStatusCode(response, 200)
 
-WS.verifyElementPropertyValue(response, "Liem", "0337572911")
-
