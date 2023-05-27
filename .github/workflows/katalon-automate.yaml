@@ -20,6 +20,7 @@ jobs:
           args: '-noSplash -retry=0 -browserType="Chrome" -testSuitePath="Test Suites/Basic Test Suite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
   send-mail:
     name: Send Mails
+    runs-on: ubuntu-latest
     needs: [katalon-automate]
     if: ${{ always() && contains(needs.*.result, 'failure') }}
     steps:
@@ -29,6 +30,6 @@ jobs:
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Katalon Automate Error
-          to: 19120272@student.hcmus.edu.vn
+          to: 19120272@student.hcmus.edu.vn, siliem422001@gmail.com
           from: CICD-Demo
           body: Run ${{github.repository}} failed.
