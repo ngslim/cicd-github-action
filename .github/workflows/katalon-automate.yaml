@@ -27,6 +27,7 @@ jobs:
       - name: Send mail
         uses: dawidd6/action-send-mail@v3
         with:
+          server_address: smtp.gmail.com
           username: ${{secrets.MAIL_USERNAME}}
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Katalon Automate Error
