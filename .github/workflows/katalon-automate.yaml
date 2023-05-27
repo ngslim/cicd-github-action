@@ -10,11 +10,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Run local app
-        container: node:17
-        run: node --version
-        run: cd App
-        run: npm install
-        run: node src/index.js
+        run: |
+          cd App
+          node --version
+          npm install
+          node src/index.js
       - name: Run test suite
         uses: katalon-studio/katalon-studio-github-action@v3.0
         with:
