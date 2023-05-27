@@ -1,7 +1,9 @@
 name: katalon-automate
 on:
-  push:
-    branches: [main]
+  workflow_run:
+    workflows: ['heroku-deploy']
+    types:
+      - completed
 jobs:
   katalon-automate:
     name: Katalon Automate
