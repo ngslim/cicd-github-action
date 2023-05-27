@@ -9,12 +9,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Run local app
+      - name: Install dependencies
         run: |
           cd App
-          node --version
           npm install
-          node src/index.js
+      - name: Run local app
+        run: node src/index.js
       - name: Run test suite
         uses: katalon-studio/katalon-studio-github-action@v3.0
         with:
