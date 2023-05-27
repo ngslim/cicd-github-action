@@ -27,9 +27,10 @@ jobs:
       - name: Send mail
         uses: dawidd6/action-send-mail@v3
         with:
+          connection_url: ${{secrets.MAIL_CONNECTION}}
           server_address: smtp.gmail.com
-          username: ${{secrets.MAIL_USERNAME}}
-          password: ${{secrets.MAIL_PASSWORD}}
+          #username: ${{secrets.MAIL_USERNAME}}
+          #password: ${{secrets.MAIL_PASSWORD}}
           subject: Katalon Automate Error
           to: 19120272@student.hcmus.edu.vn, siliem422001@gmail.com
           from: CICD-Demo
