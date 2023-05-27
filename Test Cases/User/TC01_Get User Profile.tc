@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1 Log in</name>
+   <name>TC01_Get User Profile</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>ea33e5bd-ef96-4d6d-9f67-9140a16da7d5</testCaseGuid>
+   <testCaseGuid>64ef8200-9f98-4b4b-b9ed-a541b7eaeb9d</testCaseGuid>
 </TestCaseEntity>

@@ -20,7 +20,7 @@ class UserController {
     res.locals = { ...res.locals, title: 'Hồ sơ', user: user };
 
     res.render('profile');
-  }
+  } 
 
   // [POST] /update-user
   update(req, res, next) {
