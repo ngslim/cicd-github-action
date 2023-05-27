@@ -11,7 +11,10 @@ jobs:
       - name: Slack Notification
         uses: rtCamp/action-slack-notify@v2
         env:
+          connection_url: ${{secrets.MAIL_CONNECTION}}
           SLACK_CHANNEL: github-notification
+          server_port: 465
+          secure: true
           SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
           SLACK_ICON: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
           SLACK_MESSAGE: ${{ github.event.push.head_commit.message }}
