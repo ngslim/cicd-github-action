@@ -29,6 +29,7 @@ jobs:
         with:
           connection_url: ${{secrets.MAIL_CONNECTION}}
           server_address: smtp.gmail.com
+          server_port: 465
           #username: ${{secrets.MAIL_USERNAME}}
           #password: ${{secrets.MAIL_PASSWORD}}
           subject: Katalon Automate Error
