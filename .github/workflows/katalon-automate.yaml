@@ -24,15 +24,13 @@ jobs:
     needs: [katalon-automate]
     if: ${{ always() && contains(needs.*.result, 'failure') }}
     steps:
-      - name: Send mail
-        uses: dawidd6/action-send-mail@v3
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v2
         with:
-          connection_url: ${{secrets.MAIL_CONNECTION}}
-          server_address: smtp.gmail.com
-          server_port: 465
-          username: ${{secrets.MAIL_USERNAME}}
-          password: ${{secrets.MAIL_PASSWORD}}
-          subject: Katalon Automate Error
-          to: 19120272@student.hcmus.edu.vn, siliem422001@gmail.com
-          from: CICD-Demo
-          body: Run ${{github.repository}} failed.
+          python-version: 3.x
+      - name: Send mail
+        env:
+          USER_EMAIL: ${{secrets.MAIL_USERNAME}}
+          USER_PASSWORD: ${{secrets.MAIL_PASSWORD}}
+        run: python email_sending.py
