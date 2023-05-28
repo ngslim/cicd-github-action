@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Khm ph</name>
+   <name>a_ng xut</name>
    <tag></tag>
-   <elementGuidId>db1ea221-ee75-48cc-b821-d80e91bb757a</elementGuidId>
+   <elementGuidId>2411c2e0-730d-47c1-b463-06589d8c457d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/ul/li/a</value>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.nav-link</value>
+         <value>li:nth-of-type(3) > a.dropdown-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,110 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>431e1d32-d697-4d56-a815-b90c7dd6799c</webElementGuid>
+      <webElementGuid>fa6f2b3c-6ab9-4e29-afea-631e560c00a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link</value>
-      <webElementGuid>20720152-b4f7-40b3-ad45-e0149fe16dfa</webElementGuid>
+      <value>dropdown-item</value>
+      <webElementGuid>64f8a128-06b4-4c58-b80f-d9305e18f189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/explore</value>
-      <webElementGuid>92dd0eee-1439-4ef4-8ce7-4a85bb52e1ef</webElementGuid>
+      <value>/logout</value>
+      <webElementGuid>151ed2fe-2e2e-4405-9221-6e938731ee08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Khám phá</value>
-      <webElementGuid>e800af2e-cb57-4678-a44e-35950ac6362f</webElementGuid>
+      <value>Đăng xuất</value>
+      <webElementGuid>52ff5326-0ac6-4582-a47c-45b6ef0c1cbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>0f9fdb1b-4ab5-47d5-bec7-a0b89da49c8a</webElementGuid>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;dropdown&quot;]/ul[@class=&quot;dropdown-menu show&quot;]/li[3]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>7f277c0e-9cea-4d79-9a53-ad98dd174c21</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/ul/li/a</value>
-      <webElementGuid>c537079c-26a7-4674-83ec-9b8c29ae185a</webElementGuid>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/a</value>
+      <webElementGuid>e35aa4d2-2f1d-462c-aa44-75cac85fe91f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Khám phá')]</value>
-      <webElementGuid>5f8ccdad-683b-4734-9851-514ce7324a7f</webElementGuid>
+      <value>//a[contains(text(),'Đăng xuất')]</value>
+      <webElementGuid>282caf63-7088-4b75-92c7-b77e07a732f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB BOARD'])[1]/following::a[1]</value>
-      <webElementGuid>eb544a5d-41b1-41f6-ba88-f6f950da8c4f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[1]/following::a[1]</value>
+      <webElementGuid>86f72853-9f85-4c86-8aa2-c2fb8556f0bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐĂNG VIỆC'])[1]/preceding::a[1]</value>
-      <webElementGuid>8fa47b0c-e206-4c17-856b-1d3e8ffbf8a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ của tôi'])[1]/following::a[2]</value>
+      <webElementGuid>b1cf116e-7fbd-4b3d-a3a8-c8502822681f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/preceding::a[2]</value>
-      <webElementGuid>8c8758c8-601c-4e35-adef-7d7a18c69e0d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh sách ứng tuyển đã gửi'])[1]/preceding::a[1]</value>
+      <webElementGuid>ad5ea390-a171-44e5-9a17-cf7b7a1d71cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Khám phá']/parent::*</value>
-      <webElementGuid>9aeff474-701f-4088-aa4d-021ec706cfe5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thư Ký Y Khoa'])[1]/preceding::a[1]</value>
+      <webElementGuid>d2f713fa-6920-4f5c-a9a6-8ba5aed00709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng xuất']/parent::*</value>
+      <webElementGuid>d11b0749-8b3f-431c-9173-54015bf5f290</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/explore')]</value>
-      <webElementGuid>0de2713d-0f05-4f59-8db8-afb5a88f91d3</webElementGuid>
+      <value>//a[contains(@href, '/logout')]</value>
+      <webElementGuid>68c22aea-6ea8-496e-8443-8bf339fa9c32</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>ce51bc82-2540-41ec-a0b1-52a14eecbee9</webElementGuid>
+      <value>//div/div/div/ul/li[3]/a</value>
+      <webElementGuid>85f7595e-762d-4b91-b72e-5ba5cd3d5572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/explore' and (text() = 'Khám phá' or . = 'Khám phá')]</value>
-      <webElementGuid>20c4c7af-5079-4c0e-9fec-3c09c8d3b355</webElementGuid>
+      <value>//a[@href = '/logout' and (text() = 'Đăng xuất' or . = 'Đăng xuất')]</value>
+      <webElementGuid>2824b451-d9f1-4620-aed4-d782e815a875</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

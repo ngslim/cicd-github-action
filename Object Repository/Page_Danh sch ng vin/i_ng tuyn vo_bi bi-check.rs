@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_ng tuyn vo_bi bi-check</name>
+   <tag></tag>
+   <elementGuidId>cc24db7c-97bd-48ba-8fc2-cd18923d68a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[2]/h5/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c9734620-7f7a-4810-96d6-359b57263eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-x</value>
+      <webElementGuid>bbf5558e-d2cb-4e4b-b504-c3588c40cc0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-fluid mt-5 mb-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;list-group list-group-flush&quot;]/div[@class=&quot;list-group-item&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-2 align-self-center&quot;]/div[@class=&quot;d-flex align-items-center justify-content-around&quot;]/a[2]/h5[@class=&quot;text-danger&quot;]/i[@class=&quot;bi bi-x&quot;]</value>
+      <webElementGuid>0afa38be-1ec7-4727-bda8-860c62844f5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/h5/i</value>
+      <webElementGuid>dd0049ef-c7c3-49ec-83bf-8873b3a5cabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>ec6da9ce-e8a8-4099-9ca9-b17ed5ab4937</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

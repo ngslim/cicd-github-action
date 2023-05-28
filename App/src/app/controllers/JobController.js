@@ -202,7 +202,6 @@ class JobController {
 
     if (jobs.length == 0) {
       noMatch = true;
-      res.statusCode = 204;
     }
 
     const categories = await Category.find({}).lean().exec();
@@ -344,7 +343,6 @@ class JobController {
 
     if (jobs.length == 0) {
       noMatch = true;
-      res.statusCode = 204;
     }
 
     const categories = await Category.find({}).lean().exec();

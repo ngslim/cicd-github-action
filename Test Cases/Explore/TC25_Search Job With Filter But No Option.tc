@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC25_Search Job With Filter But No Option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>386a6ae8-c41d-4dc4-ab2f-be983f7b6a53</testCaseGuid>
+</TestCaseEntity>

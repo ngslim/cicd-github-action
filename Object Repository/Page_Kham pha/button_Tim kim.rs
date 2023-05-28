@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Khm ph</name>
+   <name>button_Tim kim</name>
    <tag></tag>
-   <elementGuidId>db1ea221-ee75-48cc-b821-d80e91bb757a</elementGuidId>
+   <elementGuidId>ee14050f-9b7e-425d-ae31-2f9ba1ac9482</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/ul/li/a</value>
+         <value>//button[@id='submit-filter']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.nav-link</value>
+         <value>#submit-filter</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>431e1d32-d697-4d56-a815-b90c7dd6799c</webElementGuid>
+      <value>button</value>
+      <webElementGuid>c33abe1f-5fb5-4425-8377-a2128d123b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9b40f8b-eddc-45c3-8296-afe44d2108ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-link</value>
-      <webElementGuid>20720152-b4f7-40b3-ad45-e0149fe16dfa</webElementGuid>
+      <value>btn btn-primary btn-sm</value>
+      <webElementGuid>365f35d7-56b5-4be4-8c9b-2d8918764bb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>/explore</value>
-      <webElementGuid>92dd0eee-1439-4ef4-8ce7-4a85bb52e1ef</webElementGuid>
+      <value>submit-filter</value>
+      <webElementGuid>6ad0b4d5-59e4-4ce8-a368-3e14106dad57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Khám phá</value>
-      <webElementGuid>e800af2e-cb57-4678-a44e-35950ac6362f</webElementGuid>
+      <value>Tìm kiếm</value>
+      <webElementGuid>f5127fc7-1521-438f-9e82-0c7cffd061bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>0f9fdb1b-4ab5-47d5-bec7-a0b89da49c8a</webElementGuid>
+      <value>id(&quot;submit-filter&quot;)</value>
+      <webElementGuid>6446b837-7656-426b-bd64-1841f75f8af9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/ul/li/a</value>
-      <webElementGuid>c537079c-26a7-4674-83ec-9b8c29ae185a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:link</name>
-      <type>Main</type>
-      <value>//a[contains(text(),'Khám phá')]</value>
-      <webElementGuid>5f8ccdad-683b-4734-9851-514ce7324a7f</webElementGuid>
+      <value>//button[@id='submit-filter']</value>
+      <webElementGuid>34962349-d108-4ac9-a13c-8a81868dcfff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB BOARD'])[1]/following::a[1]</value>
-      <webElementGuid>eb544a5d-41b1-41f6-ba88-f6f950da8c4f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>500000đ'])[1]/following::button[1]</value>
+      <webElementGuid>b31ec25e-f415-4242-b96a-f5750986a9af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐĂNG VIỆC'])[1]/preceding::a[1]</value>
-      <webElementGuid>8fa47b0c-e206-4c17-856b-1d3e8ffbf8a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;500000đ'])[1]/following::button[1]</value>
+      <webElementGuid>4601ca67-a729-4b5c-89c6-6328d15085cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/preceding::a[2]</value>
-      <webElementGuid>8c8758c8-601c-4e35-adef-7d7a18c69e0d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thư Ký Y Khoa'])[1]/preceding::button[1]</value>
+      <webElementGuid>8c6718eb-ab60-4cb7-b836-42f8786becd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Khám phá']/parent::*</value>
-      <webElementGuid>9aeff474-701f-4088-aa4d-021ec706cfe5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Y tế'])[2]/preceding::button[1]</value>
+      <webElementGuid>8aa4c4c7-7cee-4f02-a773-a72d11c3592b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/explore')]</value>
-      <webElementGuid>0de2713d-0f05-4f59-8db8-afb5a88f91d3</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tìm kiếm']/parent::*</value>
+      <webElementGuid>00ca1d16-41d3-40b4-9a50-9fb1b8849eb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li/a</value>
-      <webElementGuid>ce51bc82-2540-41ec-a0b1-52a14eecbee9</webElementGuid>
+      <value>//li[4]/div/button</value>
+      <webElementGuid>00cfbeaa-36c5-4188-af5f-6778caf8891c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/explore' and (text() = 'Khám phá' or . = 'Khám phá')]</value>
-      <webElementGuid>20c4c7af-5079-4c0e-9fec-3c09c8d3b355</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'submit-filter' and (text() = 'Tìm kiếm' or . = 'Tìm kiếm')]</value>
+      <webElementGuid>6f99c747-fa55-4bbf-9aba-8c6c1dc7b2da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

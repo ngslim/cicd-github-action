@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng nhp</name>
+   <name>li_NG VIC</name>
    <tag></tag>
-   <elementGuidId>23f1f89e-c09e-4045-84fd-2ebe2d2862cc</elementGuidId>
+   <elementGuidId>e143fa41-b003-47d9-aaa2-19a5856a32b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//div[@id='navbarSupportedContent']/ul/li[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.bg-variant</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,85 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b9a30d15-9ff9-416b-9073-f8ef35ac636d</webElementGuid>
+      <value>li</value>
+      <webElementGuid>4710a6f1-8ec3-49c1-a744-c08c991d6e46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>bg-variant</value>
-      <webElementGuid>43e96348-a14e-4caa-9cfa-d4680ccd2dca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>4a5dd9c5-5b4c-4b1e-960a-9f9fd376f679</webElementGuid>
+      <value>nav-item</value>
+      <webElementGuid>5dbda56a-2ddb-4980-a86b-809b769bdb2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>6c582fda-5776-4bf1-a733-5030772058ee</webElementGuid>
+      <value>
+                ĐĂNG VIỆC
+              </value>
+      <webElementGuid>007f2061-7b55-4256-8d94-ca5c011bc297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;login-form&quot;)/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;bg-variant&quot;]</value>
-      <webElementGuid>62232e14-366e-4099-9acd-725dc235614c</webElementGuid>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]</value>
+      <webElementGuid>e0358f94-a745-46ae-b925-08da6bf4175f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>ac4c2bb2-09fe-4e33-b84d-3eb755cdd536</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login-form']/div[3]/button</value>
-      <webElementGuid>3056e0f8-af98-4d68-b939-3924a8f2b9d5</webElementGuid>
+      <value>//div[@id='navbarSupportedContent']/ul/li[2]</value>
+      <webElementGuid>ec899eea-1e53-46cf-882f-41e04aada766</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::button[1]</value>
-      <webElementGuid>bb106773-aa1a-4e04-afed-97f7747ee281</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khám phá'])[1]/following::li[1]</value>
+      <webElementGuid>0b839c3e-6aeb-4d2c-80b8-dd6ee0552c17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::button[1]</value>
-      <webElementGuid>1c3a1f07-090d-4d8d-b0a2-4901d44dda2f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB BOARD'])[1]/following::li[2]</value>
+      <webElementGuid>1b60e399-f002-4e6a-a257-82decb7acb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/preceding::li[1]</value>
+      <webElementGuid>b9603f10-fc69-4dea-8476-e8d4b5dfd2f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>76a278ac-700a-41fe-9f83-9db61c4424cf</webElementGuid>
+      <value>//li[2]</value>
+      <webElementGuid>2c0307fc-dc46-403c-8fa1-5e08b9fa8b83</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>9d4befca-6881-46bf-96f5-bdbbf9c260ad</webElementGuid>
+      <value>//li[(text() = '
+                ĐĂNG VIỆC
+              ' or . = '
+                ĐĂNG VIỆC
+              ')]</value>
+      <webElementGuid>02d1876f-75e7-4d16-8346-090622812af3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

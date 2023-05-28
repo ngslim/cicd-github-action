@@ -6,12 +6,12 @@
    <elementGuidId>833dbb75-aff9-43ac-9373-9668d3dc6b5e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.navbar-toggler-icon</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.navbar-toggler-icon</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ed77a2cd-4cc6-43a6-a6c7-cbbb213063f7</webElementGuid>
+      <webElementGuid>d0005b9f-60a2-418e-b1eb-9b9c1c61aced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>navbar-toggler-icon</value>
-      <webElementGuid>c41112e2-b367-48c5-a7d3-435941f7d5f9</webElementGuid>
+      <webElementGuid>43a6f149-0807-4a95-8943-87c088916da8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/nav[@class=&quot;navbar navbar-expand-lg pt-2 navbar-dark bg-dark&quot;]/div[@class=&quot;container-fluid&quot;]/button[@class=&quot;navbar-toggler&quot;]/span[@class=&quot;navbar-toggler-icon&quot;]</value>
-      <webElementGuid>6ea69c2e-64a8-4395-8e92-60101673754e</webElementGuid>
+      <webElementGuid>7c78d5a4-3b8c-47f4-858f-34a0a4aae5e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,6 +46,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span</value>
-      <webElementGuid>ff9c95f9-cdf9-4d0a-afb7-b4aacd980ee5</webElementGuid>
+      <webElementGuid>86f1834d-688c-44e4-86bc-da84d5ebdc57</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

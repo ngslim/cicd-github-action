@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>469e9da2-3d25-4520-a185-81ea5baef5de</webElementGuid>
+      <webElementGuid>fcd66226-7fc0-448a-9abe-b4c1d8afd2ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>my-jobs</value>
-      <webElementGuid>5800a369-cf9c-479e-a2a9-90e715bd5d90</webElementGuid>
+      <webElementGuid>dc8c4c0b-70fb-49ce-a850-a8cb0a2e233d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/explore/my-jobs</value>
-      <webElementGuid>d277d6ed-4809-4327-b44e-9585c67fc596</webElementGuid>
+      <webElementGuid>2433a367-d30a-4157-b94d-a26b9ef3a1f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link </value>
-      <webElementGuid>504e2f00-fe5f-4110-8625-39be208a998a</webElementGuid>
+      <webElementGuid>a2678764-b4f9-4717-8365-285925b840c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Công việc của tôi</value>
-      <webElementGuid>0f5ed397-eb90-48d6-a1e1-2103b220714c</webElementGuid>
+      <webElementGuid>2af0aa2d-e9e9-46c2-81b2-91447ad8dc36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@id=&quot;my-jobs&quot;]</value>
-      <webElementGuid>9cba0762-c11c-4f54-b790-129ebc645fa5</webElementGuid>
+      <webElementGuid>eaeb7c53-bf6c-4526-885f-fd90722491a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='my-jobs']</value>
-      <webElementGuid>f35809dd-ceca-4bcc-839f-22a22cab1c4c</webElementGuid>
+      <webElementGuid>e7e14a06-1207-4d66-b75f-68373f566b66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/ul/li[3]/a</value>
-      <webElementGuid>40b3cdf9-59ed-41fd-ad61-bf5a4cd5a426</webElementGuid>
+      <webElementGuid>3d1abb7e-b371-43e9-96c7-698639f4c2dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Công việc của tôi')]</value>
-      <webElementGuid>bfeace2a-4845-416e-8ad2-5dc613ffcdc4</webElementGuid>
+      <webElementGuid>3a07ed04-2a1f-47d3-babf-29cdcf261185</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐĂNG VIỆC'])[1]/following::a[1]</value>
-      <webElementGuid>5d31a939-2dc6-4398-87c6-9b8c6f677b1f</webElementGuid>
+      <webElementGuid>e4a53fb9-c471-4e38-a88f-b9be9e3289fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Khám phá'])[1]/following::a[2]</value>
-      <webElementGuid>abd8c29d-5bfc-404a-a9fe-721d786ce0f9</webElementGuid>
+      <webElementGuid>7ea19a56-49e1-4905-ad63-fab29283be1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/preceding::a[1]</value>
-      <webElementGuid>5efc2574-f60d-4129-b425-6cca2cf9e66c</webElementGuid>
+      <webElementGuid>35452b94-1a8f-42e0-9836-1f9a9664f672</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Công việc của tôi']/parent::*</value>
-      <webElementGuid>9ec1752a-e758-42dd-a25b-e1f1cd05f313</webElementGuid>
+      <webElementGuid>a7650b83-cfc9-4c06-9190-3a836f25fffd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/explore/my-jobs')]</value>
-      <webElementGuid>10e30c6f-ca08-4807-99fe-fa07b8266b84</webElementGuid>
+      <webElementGuid>46bfa679-3621-4af8-9997-3e63d370b19f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/a</value>
-      <webElementGuid>8d7d5809-38f5-425c-b119-3c9145dc09a5</webElementGuid>
+      <webElementGuid>709206ca-9fd8-4f2c-9005-7b2595129a12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'my-jobs' and @href = '/explore/my-jobs' and (text() = 'Công việc của tôi' or . = 'Công việc của tôi')]</value>
-      <webElementGuid>b9d32d03-429b-4c18-bbca-55e5e5d51982</webElementGuid>
+      <webElementGuid>5d8c7d2a-ad50-4bb9-bfca-88ec65addf69</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

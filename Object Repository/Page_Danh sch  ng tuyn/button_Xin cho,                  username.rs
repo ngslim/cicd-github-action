@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Xin cho,                  123456</name>
+   <name>button_Xin cho,                  username</name>
    <tag></tag>
-   <elementGuidId>1d35ccce-1089-4678-bec3-6ab39f348295</elementGuidId>
+   <elementGuidId>e4db0bdf-3344-4dbe-beed-c072fba2bcfd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>	</value>
+         <value>//button[@id='dropdownMenuButton1']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fd606e7d-fd42-4b11-969c-5ce95f730bfc</webElementGuid>
+      <webElementGuid>2737344c-fe73-4f62-9e6c-aa89c524d31c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-light dropdown-toggle show</value>
-      <webElementGuid>cd9868ab-e866-4bcf-ae52-11a963f960cd</webElementGuid>
+      <webElementGuid>1c673ca8-5bd8-440f-8a81-97853f1715cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>eff6ff4b-d2d4-4d04-9a2a-d002feba3520</webElementGuid>
+      <webElementGuid>0b61c5d1-590d-40ba-a04a-e2926b32f74e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>dropdownMenuButton1</value>
-      <webElementGuid>68d6d43f-ab29-4098-a4d7-b401afb37d2f</webElementGuid>
+      <webElementGuid>40a6a631-0ec7-4397-a960-8e7bdf2d012e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-bs-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>b730179e-8b12-40c1-8526-a959ec141169</webElementGuid>
+      <webElementGuid>7459751a-fa4e-4e69-b8b1-a262dddf6821</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ef9df706-711e-49d1-bcf8-e09cacffbcfc</webElementGuid>
+      <webElementGuid>8e4b485c-fcf1-4e61-9119-af259a8aa4ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,9 +71,9 @@
       <type>Main</type>
       <value>
                   Xin chào,
-                  123456
+                  username
                 </value>
-      <webElementGuid>016668d6-4f2e-4c91-9eda-418c25975959</webElementGuid>
+      <webElementGuid>2f07b2d0-358d-465e-ab18-66cb69aafc59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;dropdownMenuButton1&quot;)</value>
-      <webElementGuid>e5eef728-5e82-4c47-86e5-b579d1ab2866</webElementGuid>
+      <webElementGuid>e52e699d-1825-479b-9799-99359be0f99e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='dropdownMenuButton1']</value>
-      <webElementGuid>80634509-6893-497f-a3b9-1e9f063bbed0</webElementGuid>
+      <webElementGuid>39b42bc7-9f69-4be5-a463-0c6b514f8c60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/div/button</value>
-      <webElementGuid>860ca9fa-0784-48dd-ba3a-199370806862</webElementGuid>
+      <webElementGuid>cb63de56-edea-4671-bae8-f5e1fb84d479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/following::button[1]</value>
-      <webElementGuid>734a32c6-d163-4bfe-b81e-a5f413fb17e1</webElementGuid>
+      <webElementGuid>604290da-1932-4308-aa9e-5e1a5740565e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/following::button[1]</value>
-      <webElementGuid>647d5eb3-61ee-474d-8fc9-fbb3bb801423</webElementGuid>
+      <webElementGuid>44306009-3e70-4a38-96c2-5cfebff385e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ của tôi'])[1]/preceding::button[1]</value>
-      <webElementGuid>bc96f2db-1b3c-4966-adae-7fe7cb1e6d92</webElementGuid>
+      <webElementGuid>6cfbce4b-0ef1-44a2-a4be-b6b0fe5516b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[1]/preceding::button[1]</value>
-      <webElementGuid>fc06e24a-a54c-4cef-b791-f00d3b09b696</webElementGuid>
+      <webElementGuid>c3bdac53-6cc1-4708-88cb-1cdab07da5fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/button</value>
-      <webElementGuid>3fe7e63e-21fb-4d58-85d6-5dcefadb9b63</webElementGuid>
+      <webElementGuid>28eb27f2-7955-44a5-b6bc-f4c36ee0e2b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,11 +146,11 @@
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'dropdownMenuButton1' and (text() = '
                   Xin chào,
-                  123456
+                  username
                 ' or . = '
                   Xin chào,
-                  123456
+                  username
                 ')]</value>
-      <webElementGuid>4b097ae1-d9ff-4211-9c2b-a77ed7a32732</webElementGuid>
+      <webElementGuid>ce1ceb9c-b30c-4da6-a974-4772a2f88082</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

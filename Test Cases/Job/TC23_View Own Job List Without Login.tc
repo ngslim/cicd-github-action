@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC23_View Own Job List Without Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e381a8ea-6d5d-40e1-9c6d-f3f4ce6c5185</testCaseGuid>
+</TestCaseEntity>

@@ -21,12 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/')
+WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/explore/my-jobs')
 
-WebUI.setText(findTestObject('Object Repository/Page_Trang ch/input_Tm cng vic ngay khi hc ti trng_name'), 'abc')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Trang ch/input_Tm cng vic ngay khi hc ti trng_name'), Keys.chord(Keys.ENTER))
-
-WebUI.verifyMatch(WebUI.getUrl(), "https://cicd-demo.herokuapp.com/search?q=abc", false)
-
-
+WebUI.verifyMatch(WebUI.getUrl(), "https://cicd-demo.herokuapp.com/", false)

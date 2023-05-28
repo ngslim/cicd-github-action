@@ -23,10 +23,15 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/')
 
-WebUI.setText(findTestObject('Object Repository/Page_Trang ch/input_Tm cng vic ngay khi hc ti trng_name'), 'abc')
+WebUI.click(findTestObject('Object Repository/Page_Trang ch/li_Cng vic ca ti'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Page_Trang ch/input_Tm cng vic ngay khi hc ti trng_name'), Keys.chord(Keys.ENTER))
+WebUI.click(findTestObject('Object Repository/Page_Trang ch/li_NG VIC'))
 
-WebUI.verifyMatch(WebUI.getUrl(), "https://cicd-demo.herokuapp.com/search?q=abc", false)
+WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_Khm ph'))
 
+WebUI.click(findTestObject('Object Repository/Page_Kham pha/h3_Th K Y Khoa'))
+
+WebUI.click(findTestObject('Object Repository/Page_Th K Y Khoa/button_NG TUYN'))
+
+WebUI.verifyMatch(WebUI.getUrl(), "https://cicd-demo.herokuapp.com/login", false)
 

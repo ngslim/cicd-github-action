@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_ng nhp</name>
+   <name>a_ng tuyn ca ti</name>
    <tag></tag>
-   <elementGuidId>d9ac2c5f-b0aa-41ee-87c1-de236a0958ce</elementGuidId>
+   <elementGuidId>f5fb8aeb-38c9-4d26-9ad9-dead136e0385</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/a</value>
+         <value>(//a[@id='my-jobs'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.btn.btn-outline-light.me-3</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>58d59e68-4bb6-4051-a9be-3a9f87a65bce</webElementGuid>
+      <webElementGuid>ba7ab71e-2d46-497f-b56a-23a8f098142e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>id</name>
       <type>Main</type>
-      <value>btn btn-outline-light me-3</value>
-      <webElementGuid>70914131-0f6d-4c8b-b474-688378a9112a</webElementGuid>
+      <value>my-jobs</value>
+      <webElementGuid>c6a79198-ed04-4939-a70a-72ce10b6e1f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/login</value>
-      <webElementGuid>a90ebd04-1f52-4466-a197-d99834e92b50</webElementGuid>
+      <value>/apply/my-applies</value>
+      <webElementGuid>f1264250-96fb-4ff5-b488-c2f7f399479a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>c60bde2c-6633-4905-b65e-70d41f7468dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>8099562b-ed97-4477-8357-291da16b6f9e</webElementGuid>
+      <value>Ứng tuyển của tôi</value>
+      <webElementGuid>9544985e-5f6f-43b6-99a7-2e3787daae92</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/a[@class=&quot;btn btn-outline-light me-3&quot;]</value>
-      <webElementGuid>52722823-ab35-4299-a769-7e43bc321bd9</webElementGuid>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@id=&quot;my-jobs&quot;]</value>
+      <webElementGuid>c9a441fc-6472-4c3c-ac45-8f6879147ca1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='my-jobs'])[2]</value>
+      <webElementGuid>7d904713-eac4-4c27-bf4b-de8905a0482d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/a</value>
-      <webElementGuid>6aa10c0f-c2fa-4922-bcfc-6e0f0d72a7d9</webElementGuid>
+      <value>//div[@id='navbarSupportedContent']/ul/li[4]/a</value>
+      <webElementGuid>b51d53b8-60b6-4903-9a45-14683973ac5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>36fa917b-89e6-43e6-bfc4-2144afbceece</webElementGuid>
+      <value>//a[contains(text(),'Ứng tuyển của tôi')]</value>
+      <webElementGuid>80b943a3-2467-45c5-bc44-9e462d738b14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/following::a[1]</value>
-      <webElementGuid>da4c8218-958f-4384-a77b-f01c1b34cde3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/following::a[1]</value>
+      <webElementGuid>d1775d5d-d66c-4ee2-b6a5-79acd70b3b73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/following::a[2]</value>
-      <webElementGuid>649860be-1686-48f2-affa-c987596d8fe0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐĂNG VIỆC'])[1]/following::a[2]</value>
+      <webElementGuid>5771da67-7f36-489d-9c3d-a9a2505f2baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
-      <webElementGuid>8782863f-8ee4-44e7-8339-89061e846eb6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ của tôi'])[1]/preceding::a[1]</value>
+      <webElementGuid>340ab5a8-cc2a-4c65-87ae-7704a9a234c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm công việc ngay khi học tại trường.'])[1]/preceding::a[2]</value>
-      <webElementGuid>964d3152-77bd-4a47-9f38-b4584fff455a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>7d75781a-8449-46d4-ab14-9a67ed4821a5</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Ứng tuyển của tôi']/parent::*</value>
+      <webElementGuid>fbf7e14d-82f0-484c-8397-ee8c29d0250e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>0ab3d48a-0ec8-4189-a010-e39ed961b8b7</webElementGuid>
+      <value>//a[contains(@href, '/apply/my-applies')]</value>
+      <webElementGuid>a0a909bf-cb6a-4d7d-bc84-6755ba83e659</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a</value>
-      <webElementGuid>66d32646-f4f8-4041-85bf-64fac1697ad4</webElementGuid>
+      <value>//li[4]/a</value>
+      <webElementGuid>1240bb2c-719f-44da-83a0-fa797cfb11d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>3cf85ca6-84e1-487e-a887-94ad4e2371f9</webElementGuid>
+      <value>//a[@id = 'my-jobs' and @href = '/apply/my-applies' and (text() = 'Ứng tuyển của tôi' or . = 'Ứng tuyển của tôi')]</value>
+      <webElementGuid>9c4a3978-be04-4fff-b9f7-5167cbd53a44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
