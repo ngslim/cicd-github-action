@@ -53,4 +53,142 @@
          <variableId>271a0e6f-d48e-4c5e-98fa-7ffa8a19eded</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>425c60da-4dcd-43ef-a9bf-aa76e113062a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TC03_Register New Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>de2a8a01-c740-4771-b7eb-543cc7edbfa3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RegisterCredentials (1)</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>cb350f60-b6fa-4381-bb64-112c15399156</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>5cbe972e-b73b-4249-a9f3-65aba298160c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>15598102-dcca-4d57-8d4f-56247ae6dcf9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>First Name</value>
+         <variableId>34738fc1-bf08-49bd-a215-cdfa5d1cff6b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Last Name</value>
+         <variableId>ce1d283d-c6c6-444a-b7e6-21af08c0549a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Address</value>
+         <variableId>b88731bb-4719-4d96-8c7d-3a448e26a956</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Company</value>
+         <variableId>b72b38c3-f57d-49a5-9234-193724b5938d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Phone </value>
+         <variableId>e3f2fafa-f831-4ac2-b1c9-ba3722b8deba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>de2a8a01-c740-4771-b7eb-543cc7edbfa3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Dob</value>
+         <variableId>4e7a2709-735c-456d-9194-4be5c61e8c6b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>feb6a181-2bbb-42fd-9171-2c017f502347</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TC04_Register Existed Account</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>49336d04-024f-4c73-b1fb-0549b90ba3a4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RegisterCredentials (1)</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>49336d04-024f-4c73-b1fb-0549b90ba3a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>6e18aaf7-627e-424f-a53e-4f91a3a27ea7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>49336d04-024f-4c73-b1fb-0549b90ba3a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>06e2d6d4-0cc3-4dcc-8190-19332ea751d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>49336d04-024f-4c73-b1fb-0549b90ba3a4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>9e1fa172-0fcb-4d4f-aad8-b9b9f6958c37</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>480d950a-8837-402e-bc5d-ac7ce9d70e15</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login/TC05_Register Password Mismatch</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>69bba10a-d371-48f0-beb4-472bc880c338</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/RegisterCredentials (1)</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>69bba10a-d371-48f0-beb4-472bc880c338</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>6e18aaf7-627e-424f-a53e-4f91a3a27ea7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69bba10a-d371-48f0-beb4-472bc880c338</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>06e2d6d4-0cc3-4dcc-8190-19332ea751d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69bba10a-d371-48f0-beb4-472bc880c338</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>9e1fa172-0fcb-4d4f-aad8-b9b9f6958c37</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -20,4 +20,3 @@ import org.openqa.selenium.Keys as Keys
 response = WS.sendRequest(findTestObject('User/Get User Profile'))
 
 WS.verifyResponseStatusCode(response, 200)
-

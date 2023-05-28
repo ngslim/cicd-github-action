@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Xin cho,                  123456</name>
+   <tag></tag>
+   <elementGuidId>1d35ccce-1089-4678-bec3-6ab39f348295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='dropdownMenuButton1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dropdownMenuButton1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5082356f-238b-4729-8005-c9c5cf62419a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-light dropdown-toggle show</value>
+      <webElementGuid>63da8081-038f-453f-838c-feaeabde7a5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6eea449e-536f-41d8-a0e1-530504df9f20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dropdownMenuButton1</value>
+      <webElementGuid>18d412cc-12ba-4af4-ab70-52e2bfba908d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>d03009ea-5482-43db-832d-f8d8d3946d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f3d4c2a4-cc32-44b3-aee5-29bba2d62721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Xin chào,
+                  123456
+                </value>
+      <webElementGuid>a9f794fd-e261-4d9f-87b9-30c3facc0788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdownMenuButton1&quot;)</value>
+      <webElementGuid>c5f1054a-23d6-49cd-a645-f806f1d6e42f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='dropdownMenuButton1']</value>
+      <webElementGuid>0fe93097-5762-48d3-8e5d-053d724b20a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/button</value>
+      <webElementGuid>b03f38ae-976d-47fe-98d6-1d5072d4824a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/following::button[1]</value>
+      <webElementGuid>9a204931-1c87-4a92-b4f8-01d96e9c2477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/following::button[1]</value>
+      <webElementGuid>b3c096e8-a6e9-4940-aefa-fabfec53ea2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hồ sơ của tôi'])[1]/preceding::button[1]</value>
+      <webElementGuid>80080e85-e18f-44b5-b16f-ac33b7a6d0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cài đặt'])[1]/preceding::button[1]</value>
+      <webElementGuid>5e0409d1-adba-4a09-8cd9-4cf7dbfcbe38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>f79114a8-b8fc-4ee7-9b00-447a91a5e443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'dropdownMenuButton1' and (text() = '
+                  Xin chào,
+                  123456
+                ' or . = '
+                  Xin chào,
+                  123456
+                ')]</value>
+      <webElementGuid>f1662951-42db-4d3f-b388-1521dcce051f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

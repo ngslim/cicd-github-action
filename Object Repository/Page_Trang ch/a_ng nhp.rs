@@ -6,12 +6,12 @@
    <elementGuidId>d9ac2c5f-b0aa-41ee-87c1-de236a0958ce</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-outline-light.me-3</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='navbarSupportedContent']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-outline-light.me-3</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>68315c07-eea9-47be-93ba-59fac1d91ba2</webElementGuid>
+      <webElementGuid>ac1916dc-b878-4b4f-86aa-0823ae9f976a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-outline-light me-3</value>
-      <webElementGuid>6705c4f4-1cfa-43ce-9f1e-0e833edb09ec</webElementGuid>
+      <webElementGuid>f2014dbb-3c19-4ec6-af62-ab9ddab86103</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>e6daeeb0-be6d-4fab-a234-05874bb00d7b</webElementGuid>
+      <webElementGuid>b4ebb8d8-b615-4be1-99c2-11e3f8aa320c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>b41a374b-badc-40cc-ba84-5b991dc7a07c</webElementGuid>
+      <webElementGuid>9b7c030a-79e9-426f-a2f0-f96cd6c752f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/a[@class=&quot;btn btn-outline-light me-3&quot;]</value>
-      <webElementGuid>e71b6218-61ac-47a4-b588-b71768cf89ce</webElementGuid>
+      <webElementGuid>91c86675-2ef6-4279-9a96-f57f008bac5e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/a</value>
-      <webElementGuid>f353d15f-5f2b-4481-bb9d-ed263cd60a3f</webElementGuid>
+      <webElementGuid>2e3b794c-2106-43dd-8630-dde3efd59eda</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>729f5d84-9d56-404a-97d1-9707766f2cc7</webElementGuid>
+      <webElementGuid>4388c6e4-c6f4-447c-b324-3c6fa323d6f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/following::a[1]</value>
-      <webElementGuid>a42e2539-6f7d-43e0-a1b2-59a0bd83335a</webElementGuid>
+      <webElementGuid>4a011a6d-f6b1-4dcb-b890-6a73ab0d0e72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/following::a[2]</value>
-      <webElementGuid>cb2cd3f8-2bd6-4fe4-81e9-fa3346a51569</webElementGuid>
+      <webElementGuid>a3612691-53b9-40aa-b68b-566f8f8f01ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
-      <webElementGuid>0b47285f-7aa2-45a2-a3c2-5f858692755d</webElementGuid>
+      <webElementGuid>72ced1c8-7b4c-4332-a184-a6e632b117ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm công việc ngay khi học tại trường.'])[1]/preceding::a[2]</value>
-      <webElementGuid>a8af0b3a-95ad-46d7-86e2-283c91dfcbdc</webElementGuid>
+      <webElementGuid>16eb5d30-107d-49a4-86f6-41a4258a73bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>86f96d40-7d32-42c5-8d03-ec79a745658d</webElementGuid>
+      <webElementGuid>6cf0e856-4c15-45b1-829e-d76c958d3253</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>25c7ee1d-cb37-4ba2-8e46-39806491a170</webElementGuid>
+      <webElementGuid>27faf1d1-1e88-439d-b236-32b55736cb00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a</value>
-      <webElementGuid>f3867f6e-635b-404c-958e-b13137c44d49</webElementGuid>
+      <webElementGuid>33826fb9-0cbf-4533-b2cc-26d44acfdb35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>08559dbf-b63c-4b70-bebd-5a3e5503b409</webElementGuid>
+      <webElementGuid>74fb26a3-f190-46f0-be75-62beecc7df36</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

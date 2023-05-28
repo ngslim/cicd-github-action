@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cng vic ca ti</name>
+   <tag></tag>
+   <elementGuidId>1177ba5e-4400-4efa-b849-57f5d085281e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='my-jobs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#my-jobs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>469e9da2-3d25-4520-a185-81ea5baef5de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>my-jobs</value>
+      <webElementGuid>5800a369-cf9c-479e-a2a9-90e715bd5d90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/explore/my-jobs</value>
+      <webElementGuid>d277d6ed-4809-4327-b44e-9585c67fc596</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>504e2f00-fe5f-4110-8625-39be208a998a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Công việc của tôi</value>
+      <webElementGuid>0f5ed397-eb90-48d6-a1e1-2103b220714c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@id=&quot;my-jobs&quot;]</value>
+      <webElementGuid>9cba0762-c11c-4f54-b790-129ebc645fa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='my-jobs']</value>
+      <webElementGuid>f35809dd-ceca-4bcc-839f-22a22cab1c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[3]/a</value>
+      <webElementGuid>40b3cdf9-59ed-41fd-ad61-bf5a4cd5a426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Công việc của tôi')]</value>
+      <webElementGuid>bfeace2a-4845-416e-8ad2-5dc613ffcdc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐĂNG VIỆC'])[1]/following::a[1]</value>
+      <webElementGuid>5d31a939-2dc6-4398-87c6-9b8c6f677b1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khám phá'])[1]/following::a[2]</value>
+      <webElementGuid>abd8c29d-5bfc-404a-a9fe-721d786ce0f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/preceding::a[1]</value>
+      <webElementGuid>5efc2574-f60d-4129-b425-6cca2cf9e66c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Công việc của tôi']/parent::*</value>
+      <webElementGuid>9ec1752a-e758-42dd-a25b-e1f1cd05f313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/explore/my-jobs')]</value>
+      <webElementGuid>10e30c6f-ca08-4807-99fe-fa07b8266b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>8d7d5809-38f5-425c-b119-3c9145dc09a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'my-jobs' and @href = '/explore/my-jobs' and (text() = 'Công việc của tôi' or . = 'Công việc của tôi')]</value>
+      <webElementGuid>b9d32d03-429b-4c18-bbca-55e5e5d51982</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

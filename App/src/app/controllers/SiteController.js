@@ -11,24 +11,28 @@ class SiteController {
   // [GET] /404
   error_404(req, res) {
     res.locals = { ...res.locals, title: 'Lỗi' };
+    res.statusCode = 404;
     res.render('404');
   }
 
   // [GET] /no-job
   error_no_job(req, res) {
     res.locals = { ...res.locals, title: 'Lỗi' };
+    res.statusCode = 204;
     res.render('no-job');
   }
 
   // [GET] /no-apply
   error_no_apply(req, res) {
     res.locals = { ...res.locals, title: 'Lỗi' };
+    res.statusCode = 204;
     res.render('no-apply');
   }
 
   // [GET] /error-apply
   error(req, res) {
     res.locals = { ...res.locals, title: 'Lỗi' };
+    res.statusCode = 204;
     res.render('error');
   }
 

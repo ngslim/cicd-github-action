@@ -34,6 +34,12 @@ class JobController {
       totalPage,
       page,
     };
+
+    if(jobs === null)
+    {
+      res.statusCode = 204;
+    }
+
     //res.json(jobs);
     res.render('explore');
   }
@@ -50,6 +56,7 @@ class JobController {
 
     if (job === null) {
       res.locals = { ...res.locals, title: 'Lỗi' };
+      res.statusCode = 404;
       res.render('404');
       return;
     }
@@ -195,6 +202,7 @@ class JobController {
 
     if (jobs.length == 0) {
       noMatch = true;
+      res.statusCode = 204;
     }
 
     const categories = await Category.find({}).lean().exec();
@@ -336,6 +344,7 @@ class JobController {
 
     if (jobs.length == 0) {
       noMatch = true;
+      res.statusCode = 204;
     }
 
     const categories = await Category.find({}).lean().exec();
@@ -354,6 +363,7 @@ class JobController {
       _location,
       _salary,
     };
+
     res.render('filter');
   }
 }

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a ch_bi bi-pen</name>
+   <tag></tag>
+   <elementGuidId>5121a465-0b6e-488b-a4cd-02f9b99c7a64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[2]/h3/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.bi.bi-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3c6c0516-2ba4-4755-a9cf-e03bbbfaed1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-trash</value>
+      <webElementGuid>ce9d3036-05ae-4764-8966-b0f45e5dc04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-fluid mt-5 mb-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mb-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;list-group list-group-flush&quot;]/div[@class=&quot;list-group-item&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-2 align-self-center&quot;]/div[@class=&quot;d-flex align-items-center justify-content-around&quot;]/a[2]/h3[@class=&quot;text-danger&quot;]/i[@class=&quot;bi bi-trash&quot;]</value>
+      <webElementGuid>068ecd08-dcf8-4c3c-b684-bcd9019bdd08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/h3/i</value>
+      <webElementGuid>5fb8b82c-f53f-4ef7-81aa-67bc7d27123a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>61313380-e599-4c36-9adf-4a6ae9032e15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

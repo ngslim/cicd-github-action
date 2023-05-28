@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_NG VIC</name>
+   <tag></tag>
+   <elementGuidId>caa33800-618a-485c-b0b8-4ce9f1bb4440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='post-a-job']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#post-a-job</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4077d33a-a305-4e8b-8391-02c999a372d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>post-a-job</value>
+      <webElementGuid>05547946-7de2-46d7-9e3f-778d89ad030a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/explore/new-job</value>
+      <webElementGuid>8af1a588-d8d4-4c14-8be3-7f2005789554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link </value>
+      <webElementGuid>18760fc1-545a-4087-b62f-5f2eb49b0df9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ĐĂNG VIỆC</value>
+      <webElementGuid>69f98ccc-e862-46ad-aede-03cdf19fecf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-a-job&quot;)</value>
+      <webElementGuid>c77f4d41-12e2-4634-83b0-7b0c443b664f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='post-a-job']</value>
+      <webElementGuid>eec4770f-f042-4775-89eb-b2e4310600d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/ul/li[2]/a</value>
+      <webElementGuid>2a653baa-5448-45b5-b9ed-6086274f531d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ĐĂNG VIỆC')]</value>
+      <webElementGuid>b26d071d-d08d-4417-80f7-fdb5eb49d099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khám phá'])[1]/following::a[1]</value>
+      <webElementGuid>e0b998b4-73a0-44fd-a115-f22b5a0fe374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB BOARD'])[1]/following::a[2]</value>
+      <webElementGuid>23ca0e45-f979-4198-9610-49f591094886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/preceding::a[1]</value>
+      <webElementGuid>3c03cfb6-951a-4ace-85b8-bc5889899ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/preceding::a[2]</value>
+      <webElementGuid>fd1a9b8f-7f41-48de-9d5d-adcf41b54c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ĐĂNG VIỆC']/parent::*</value>
+      <webElementGuid>e015d397-1f11-4a89-a9dc-339abaae1d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/explore/new-job')]</value>
+      <webElementGuid>0780cb93-7f34-4114-a993-6ac2bbe11ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>77c69ae8-e258-43a2-8297-b2d34e18da0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'post-a-job' and @href = '/explore/new-job' and (text() = 'ĐĂNG VIỆC' or . = 'ĐĂNG VIỆC')]</value>
+      <webElementGuid>4a78a75d-f290-4d27-9d8c-3c6f307914ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

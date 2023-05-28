@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/')
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch/span_JOB BOARD_navbar-toggler-icon'))
+WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_ng nhp'))
 

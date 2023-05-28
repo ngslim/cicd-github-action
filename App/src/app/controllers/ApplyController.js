@@ -76,6 +76,7 @@ class ApplyController {
         title: 'Lỗi',
         message: 'Bạn đã ứng tuyển công việc này',
       };
+      res.statusCode = 204;
       res.render('error');
       return;
     }

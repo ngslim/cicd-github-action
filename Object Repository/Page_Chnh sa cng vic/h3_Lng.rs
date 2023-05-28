@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Lng</name>
+   <tag></tag>
+   <elementGuidId>9d383ee1-d6d8-42b9-902f-fad1b678a11d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Bán trái cây tại chợ Thủ Đức từ thứ 2 đến thứ 6 hằng tuần từ 7:00 đến 16:00'])[1]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>63910f0c-04d1-4aeb-867c-91e342fcea28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lương:</value>
+      <webElementGuid>f4cf4252-94cd-41f0-92ba-7b11681afbc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-fluid d-flex justify-content-center mt-5 mb-5&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-12&quot;]/form[1]/div[@class=&quot;row mb-5&quot;]/div[@class=&quot;col-12 col-md-3 border-end&quot;]/h3[1]</value>
+      <webElementGuid>e68c40db-a7ba-4c1f-94dc-20311a6f84ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bán trái cây tại chợ Thủ Đức từ thứ 2 đến thứ 6 hằng tuần từ 7:00 đến 16:00'])[1]/following::h3[1]</value>
+      <webElementGuid>0b08fd6a-682b-431b-bbd1-2df12686271b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mô tả:'])[1]/following::h3[2]</value>
+      <webElementGuid>e9b7c431-8290-459a-8343-82e540e1a64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/h3</value>
+      <webElementGuid>9e781115-40b1-4c8e-8ef2-74c65cba8c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Lương:' or . = 'Lương:')]</value>
+      <webElementGuid>429e1804-0ada-40c9-bc91-e4064dd5d9ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
