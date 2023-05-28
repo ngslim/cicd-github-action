@@ -25,12 +25,12 @@ WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_ng nhp'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_username'), '123456')
+WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_username'), '19120272')
 
-WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_password'), '123456')
+WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_password'), '19120272')
 
 WebUI.click(findTestObject('Object Repository/Page_ng nhp/button_ng nhp'))
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_Cng vic ca ti'))
+WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/explore/edit-job?_id=61cd6b8c7802040ba878af4a')
 
 WebUI.verifyMatch(WebUI.getUrl(), "https://cicd-demo.herokuapp.com/", false)

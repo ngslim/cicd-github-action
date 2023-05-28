@@ -23,14 +23,16 @@ WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_ng nhp'))
+WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_ng k'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_username'), '123456')
+WebUI.setText(findTestObject('Object Repository/Page_ng k/input_ng k_username'), username)
 
-WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_password'), '123456')
+WebUI.setText(findTestObject('Object Repository/Page_ng k/input_ng k_email'), email)
 
-WebUI.click(findTestObject('Object Repository/Page_ng nhp/button_ng nhp'))
+WebUI.setText(findTestObject('Object Repository/Page_ng k/input_ng k_password'), password)
 
-WebUI.click(findTestObject('Object Repository/Page_Trang ch/a_Cng vic ca ti'))
+WebUI.setText(findTestObject('Object Repository/Page_ng k/input_ng k_confirm-password'), password)
 
-WebUI.verifyMatch(WebUI.getUrl(), "https://cicd-demo.herokuapp.com/", false)
+WebUI.click(findTestObject('Object Repository/Page_ng k/button_ng k'))
+
+WebUI.click(findTestObject('Object Repository/Page_ng k/button_Hon tt'))
