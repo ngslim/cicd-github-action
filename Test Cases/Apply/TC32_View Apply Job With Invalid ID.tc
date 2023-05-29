@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC32_View Apply Job With Invalid ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f41f4b94-13d0-49ec-bc70-2d857d8bddc9</testCaseGuid>
+</TestCaseEntity>
