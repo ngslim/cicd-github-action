@@ -396,7 +396,7 @@
       <guid>443fd43d-3b6a-45b2-bae7-7722454cda9b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Apply/TC33-View Invalid Path</testCaseId>
+      <testCaseId>Test Cases/Apply/TC33_View Invalid Path</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

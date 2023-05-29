@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC33-View Invalid Path</name>
+   <name>TC33_View Invalid Path</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>14966212-f12c-43d0-9fc8-3a679f7a3c40</testCaseGuid>
