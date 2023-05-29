@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3866f8d6-2397-46c1-8840-eba0ac69c7fb</webElementGuid>
+      <webElementGuid>cf6b5b6d-1d38-46d5-a99d-9641c3fd1c3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>job-button bg-variant</value>
-      <webElementGuid>8257fc89-dc94-4042-b05e-969d524a5b00</webElementGuid>
+      <webElementGuid>7e744705-51dc-4650-acdd-182c361a006d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a25e964c-0235-45ce-bbfb-b51958ac0105</webElementGuid>
+      <webElementGuid>5c25f46b-9b62-41a9-ae30-14edba4bba06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ĐĂNG</value>
-      <webElementGuid>17b7f140-c630-4d60-9dde-7444b25c2d7c</webElementGuid>
+      <webElementGuid>a6a9ab08-f8ea-4d3f-8078-f344462f1aef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;app&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;container-fluid d-flex justify-content-center mt-5 mb-5&quot;]/div[@class=&quot;card w-100&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-12&quot;]/form[1]/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;job-button bg-variant&quot;]</value>
-      <webElementGuid>0fc5515e-2c67-4ecb-afd0-7bb56a0f4bf1</webElementGuid>
+      <webElementGuid>8e841f6f-b08c-4a1f-817f-4737352edf48</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>f1dfd2d5-72d1-45ab-a0d4-28cd2f0ed44d</webElementGuid>
+      <webElementGuid>b44f0672-6d29-492a-bc49-aadfef2860ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục:'])[1]/following::button[1]</value>
-      <webElementGuid>5c502ce7-acd8-4fd3-8279-7069b49aaf39</webElementGuid>
+      <webElementGuid>2bd0de2c-3dda-41ee-818c-4810bcb067bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vị trí:'])[1]/following::button[1]</value>
-      <webElementGuid>36b40ca3-9b4b-4162-8e24-0b59cbeca67f</webElementGuid>
+      <webElementGuid>313f4f7d-b8d5-4709-9a10-522697cbdbe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Về chúng tôi'])[1]/preceding::button[1]</value>
-      <webElementGuid>e9c141ca-a29c-43c4-abcb-398ac90f61c8</webElementGuid>
+      <webElementGuid>54b46ed3-f9e1-43d2-a466-fb002a7f116a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chính sách'])[1]/preceding::button[1]</value>
-      <webElementGuid>d709acd9-f3dc-465b-bcd0-752302a1a379</webElementGuid>
+      <webElementGuid>dd25af10-29c9-4644-b8c9-abb3a6e5c3a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ĐĂNG']/parent::*</value>
-      <webElementGuid>5be2b933-ee23-4530-9b91-acaa91df06fa</webElementGuid>
+      <webElementGuid>2de9ea3a-742c-4f90-a884-d3fa802255f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/button</value>
-      <webElementGuid>2fb9e834-9572-4e2b-bcda-c3ccd3b64302</webElementGuid>
+      <webElementGuid>960e7239-1e6d-4664-974f-aceaf05c6c10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'ĐĂNG' or . = 'ĐĂNG')]</value>
-      <webElementGuid>3fd97b06-dcd3-472e-856d-59705301a9f7</webElementGuid>
+      <webElementGuid>3d9102a4-d5d1-4337-b7b9-d9b0a6ca1ee1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

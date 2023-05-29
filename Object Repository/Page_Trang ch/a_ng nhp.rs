@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8fdcd8ce-604a-41cd-9670-d6530a1bbaf2</webElementGuid>
+      <webElementGuid>023843bd-7bbf-426b-beba-b8d0d4f1754c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-outline-light me-3</value>
-      <webElementGuid>a5b52149-df7a-47b9-9c49-0cc0b11a05d6</webElementGuid>
+      <webElementGuid>5a8fd0b7-65a9-48c3-800c-2f6eb936709c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/login</value>
-      <webElementGuid>32368cc2-aa91-411f-b2c7-afb727211dcc</webElementGuid>
+      <webElementGuid>8a1a2154-8e23-44bb-b9b8-395982917615</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>512ac97c-d559-4971-9dca-fc92be5123dd</webElementGuid>
+      <webElementGuid>c780fafa-0cdf-4cb6-a698-546219463f8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/a[@class=&quot;btn btn-outline-light me-3&quot;]</value>
-      <webElementGuid>a6d9f03e-34b9-4c5b-b8f2-507b8a504214</webElementGuid>
+      <webElementGuid>d3212931-c617-4551-bee3-ef23f8c16db8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/a</value>
-      <webElementGuid>5d6700b8-f19d-45c9-afde-e89cf9aafb33</webElementGuid>
+      <webElementGuid>100b7ef5-f844-4ba8-8361-d7bafd185074</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>23727ad2-3f48-44f2-a3f4-f879089dd978</webElementGuid>
+      <webElementGuid>6a932dca-e57f-44b5-a3ca-0cb706b234ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/following::a[1]</value>
-      <webElementGuid>6faebbc9-2675-4573-aa9d-5c9024e57fcb</webElementGuid>
+      <webElementGuid>3bc42b45-4706-4136-8900-414e19d93e54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/following::a[2]</value>
-      <webElementGuid>d66e6601-d56e-43e8-b239-c6f39810e912</webElementGuid>
+      <webElementGuid>dc99ee0e-3fb2-4ac4-bfa8-aa2b78898ad5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
-      <webElementGuid>2898ae84-942c-4f3f-9f59-2f7e559a5b1e</webElementGuid>
+      <webElementGuid>81b754c4-097b-4ee2-bb94-79c7fc8643ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm công việc ngay khi học tại trường.'])[1]/preceding::a[2]</value>
-      <webElementGuid>8522a003-de9e-47fb-8a10-42843ac29b2b</webElementGuid>
+      <webElementGuid>53dd057f-7e3b-452b-87bb-e92f411e26e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>919ae117-89bc-4bce-8b0e-57d720bfce4f</webElementGuid>
+      <webElementGuid>f7095edb-164c-4e0b-a30f-2118fe11bc69</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>86cef918-5fa6-4109-96a8-0e6b83688bd6</webElementGuid>
+      <webElementGuid>7e8c7a3a-4605-47a3-81ca-9dff4eeb5974</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/a</value>
-      <webElementGuid>79f65f57-03ea-4468-aefa-5f5f8195f9c6</webElementGuid>
+      <webElementGuid>5401b2cc-090e-45de-b1f9-704075393fdd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>6abc03e2-74c9-414c-a133-a965469dc5de</webElementGuid>
+      <webElementGuid>47ccbc8f-70a6-471e-895d-23474d3c176c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

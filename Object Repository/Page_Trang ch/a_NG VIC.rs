@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>7143da5d-fae6-4658-a6f5-4754a1f4125a</webElementGuid>
+      <webElementGuid>c348a2b7-b186-4646-99dd-a1c4b238bd81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>post-a-job</value>
-      <webElementGuid>cf8aefe1-cb41-4238-af6d-1415dc91724b</webElementGuid>
+      <webElementGuid>32651863-66b1-4b5a-8c51-baffc86d0d78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/explore/new-job</value>
-      <webElementGuid>5a2aa615-b2d2-4b64-b00b-e731f1503642</webElementGuid>
+      <webElementGuid>b0ab11c4-69ee-43d3-b310-885e2b1ce580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link </value>
-      <webElementGuid>613e8270-dd44-48af-9c29-96916a4faad7</webElementGuid>
+      <webElementGuid>8be21dda-4d4c-459f-ade6-c2c21add9fab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>ĐĂNG VIỆC</value>
-      <webElementGuid>48b0eb01-df58-401e-a1f1-f0135ff5f81d</webElementGuid>
+      <webElementGuid>63dcdf0c-fdcf-4f33-a27a-00a8b1c2d0ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post-a-job&quot;)</value>
-      <webElementGuid>a328d0e7-d276-4b4a-b6b7-58c81b812421</webElementGuid>
+      <webElementGuid>85d406d2-4267-4be2-a400-09c9ed50cb68</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='post-a-job']</value>
-      <webElementGuid>5dd8f683-a0f9-4c67-af5d-6bbe6da57dab</webElementGuid>
+      <webElementGuid>b7370b7e-fb0a-4f0f-94d5-96cad3ca1246</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/ul/li[2]/a</value>
-      <webElementGuid>a460741f-00e5-4479-8a8e-f1524947432d</webElementGuid>
+      <webElementGuid>6f1a89d2-5eb5-43f3-b9ec-11a26541e5a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'ĐĂNG VIỆC')]</value>
-      <webElementGuid>2b30aa82-d48b-4b43-8f1f-3ee0f9033e8b</webElementGuid>
+      <webElementGuid>aa7e2d6b-9c5b-4baf-b789-47a6540ee2e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Khám phá'])[1]/following::a[1]</value>
-      <webElementGuid>fc88e7ce-411b-42bb-b7aa-fc8851313a1e</webElementGuid>
+      <webElementGuid>d3fee176-0d77-44eb-84ee-17aa8d86c8a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JOB BOARD'])[1]/following::a[2]</value>
-      <webElementGuid>bf72c614-500c-47e3-b7a2-7fa8502a49ba</webElementGuid>
+      <webElementGuid>7c9d712c-87aa-4c99-b25a-7ee154aa4ae9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Công việc của tôi'])[1]/preceding::a[1]</value>
-      <webElementGuid>3f533030-db0b-46bd-a488-3f560286bd59</webElementGuid>
+      <webElementGuid>25283209-1c44-47b6-b520-370fdc519d13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Ứng tuyển của tôi'])[1]/preceding::a[2]</value>
-      <webElementGuid>b21fb78f-9ae8-433c-98ef-2ae6f8d6b1bb</webElementGuid>
+      <webElementGuid>1029fd4e-3070-4f15-bad2-862698af01df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='ĐĂNG VIỆC']/parent::*</value>
-      <webElementGuid>0f3d384a-944f-4b65-8be1-4687b5160669</webElementGuid>
+      <webElementGuid>bc427b50-683a-4488-818c-2d62328c5b09</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/explore/new-job')]</value>
-      <webElementGuid>c4030094-5a98-4612-96a5-699ca9646ec0</webElementGuid>
+      <webElementGuid>9ee17685-4f86-471d-b9a6-3a8b5ccd290e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>f9c56d0f-af51-4575-a510-4cc6115ebbbf</webElementGuid>
+      <webElementGuid>af35ccbf-5a1f-410b-bbbb-0123a7cb7b93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'post-a-job' and @href = '/explore/new-job' and (text() = 'ĐĂNG VIỆC' or . = 'ĐĂNG VIỆC')]</value>
-      <webElementGuid>c728d7ba-0a93-4505-9d08-f42300ec50e9</webElementGuid>
+      <webElementGuid>82c83fd8-113c-4a41-940d-b9c5bc92d920</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
