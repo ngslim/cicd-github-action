@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30_Add Job With Duplicate Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d903bb56-0110-4c50-b744-94c6e46e595b</testCaseGuid>
+</TestCaseEntity>
