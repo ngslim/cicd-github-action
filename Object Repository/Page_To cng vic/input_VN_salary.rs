@@ -6,12 +6,12 @@
    <elementGuidId>82ea9f10-82f5-439d-8a03-ba0d4561d696</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='salary']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#salary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='salary']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6da9e2b8-17aa-4ca4-8c8c-734314de6604</webElementGuid>
+      <webElementGuid>e20566f5-3d4d-4647-ad3b-614d878927da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-75</value>
-      <webElementGuid>afb5da72-93b0-47bd-8981-086d7938fb75</webElementGuid>
+      <webElementGuid>598c30f5-040c-403a-b438-8cfa57fce5d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>salary</value>
-      <webElementGuid>ffa434cd-d805-47dd-babf-05545176b3e4</webElementGuid>
+      <webElementGuid>41585949-3d5c-4044-8b95-e42888bccf8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>salary</value>
-      <webElementGuid>20ad51b8-7b5d-49de-870d-dbfec178cf97</webElementGuid>
+      <webElementGuid>102eb5cf-0159-4a49-8953-ce87acfdc0cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>c0f51ccc-d69d-48bb-9813-d363da386370</webElementGuid>
+      <webElementGuid>18b2dc6c-d50a-4357-b8f8-cbe548b71b9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;salary&quot;)</value>
-      <webElementGuid>bed3ec4d-2395-4807-a6c8-f89627a9a939</webElementGuid>
+      <webElementGuid>a5dfa001-643d-4da0-b199-b6d1bf217f5e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='salary']</value>
-      <webElementGuid>ba8972a6-b31d-4007-9ac7-6f3a983f4fa9</webElementGuid>
+      <webElementGuid>b3cc9028-86ae-4e09-9a8e-88a88298041e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/h3/input</value>
-      <webElementGuid>9dcaf444-89ba-48c8-95d5-01e110b427b7</webElementGuid>
+      <webElementGuid>0a30197c-6d5d-4d75-a840-91ba2150f737</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'salary' and @name = 'salary' and @type = 'number']</value>
-      <webElementGuid>76cbf4fd-9806-4bf8-97ed-4641813c8cde</webElementGuid>
+      <webElementGuid>5539e080-7fdb-4261-afa0-7e1b6410aa61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
