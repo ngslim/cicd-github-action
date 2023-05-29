@@ -11,6 +11,7 @@ message = "Test failed."
 
 RECIPIENTS = []
 RECIPIENTS.append("ngggslim@gmail.com")
+RECIPIENTS.append("nguyenhoangtien100501@gmail.com")
 
 context = ssl.create_default_context()
 
