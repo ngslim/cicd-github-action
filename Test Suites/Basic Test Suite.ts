@@ -504,4 +504,11 @@
       <testCaseId>Test Cases/Apply/TC48_Delete Duplicate Apply Job</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>878d5c70-72bd-49e3-a76c-cc8cc57dcc75</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Apply/TC49_Approve Duplicated Apply Job</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
