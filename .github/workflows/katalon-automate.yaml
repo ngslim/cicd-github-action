@@ -34,3 +34,19 @@ jobs:
           USER_EMAIL: ${{secrets.MAIL_USERNAME}}
           USER_PASSWORD: ${{secrets.MAIL_PASSWORD}}
         run: python email_sending.py
+  send-slack-noti:
+    name: Slack Notification
+    runs-on: ubuntu-latest
+    needs: [katalon-automate]
+    if: ${{ always() && contains(needs.*.result, 'failure') }}
+    steps:
+      - name: Slack Notification
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_CHANNEL: github-notification
+          SLACK_COLOR: ${{ job.status }} # or a specific color like 'good' or '#ff00ff'
+          SLACK_ICON: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+          SLACK_MESSAGE: Test Failed ${{ github.event.push.head_commit.message }}
+          SLACK_TITLE: Message
+          SLACK_USERNAME: Github
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
