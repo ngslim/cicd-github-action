@@ -19,5 +19,5 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/explore/job?_id=61e23846814741b4e96972')
+WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/explore/job?_d=61e23846814741b4e9697209')
 

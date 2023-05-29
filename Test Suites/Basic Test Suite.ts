@@ -396,7 +396,14 @@
       <guid>443fd43d-3b6a-45b2-bae7-7722454cda9b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Apply/TC33_View Invalid Path</testCaseId>
+      <testCaseId>Test Cases/Apply/TC33_View Invalid Path Apply Job</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ea7a797f-2ab7-43e7-8124-076831c59fba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Job/TC34_View Invalid Path Job</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
