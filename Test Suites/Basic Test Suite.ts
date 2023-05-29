@@ -420,4 +420,11 @@
       <testCaseId>Test Cases/Explore/TC36_View Job List With Invalid Pagination</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>4c88217b-36f6-4ae1-89e0-674e566c0dfb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Explore/TC37_Search Job With Filter But Invalid Pagination</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
