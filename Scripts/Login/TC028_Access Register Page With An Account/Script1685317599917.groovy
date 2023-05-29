@@ -31,5 +31,3 @@ WebUI.setText(findTestObject('Object Repository/Page_ng nhp/input_ng nhp_passwor
 
 WebUI.click(findTestObject('Object Repository/Page_ng nhp/button_ng nhp'))
 
-WebUI.navigateToUrl('https://cicd-demo.herokuapp.com/register')
-
