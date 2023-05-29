@@ -452,7 +452,14 @@
       <guid>fb6d34f2-8e0f-4859-a51c-d9f62d0143ac</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Job/TC41_Edit Job With Invalid params field</testCaseId>
+      <testCaseId>Test Cases/Job/TC41_Edit Job With Invalid Params Field</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ecc78d3a-423d-4142-9fa0-615e3fea05f0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Job/TC42_View Job With Invalid Params Field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
