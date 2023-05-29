@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aec0cc03-3ba0-4d95-b582-beb40ece3153</webElementGuid>
+      <webElementGuid>1e4669bf-d8a5-40aa-b81c-6709a656d4d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-variant</value>
-      <webElementGuid>72a9b0a8-211c-4b42-865b-b5f54df2fd33</webElementGuid>
+      <webElementGuid>2bcd3708-a251-47cf-a30b-3e701eba7ad1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>7e0f7f24-81f6-419d-b705-2244a7138545</webElementGuid>
+      <webElementGuid>9696bdd8-6aa2-42d3-b4fe-c7e9a2078193</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng ký</value>
-      <webElementGuid>2eee8bbb-95a0-40ea-9ee0-53fffe2bb740</webElementGuid>
+      <webElementGuid>624808db-6922-46ad-b358-e6f9622354e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;register-form&quot;)/div[@class=&quot;d-flex justify-content-center&quot;]/button[@class=&quot;bg-variant&quot;]</value>
-      <webElementGuid>c46876bd-06a2-40d5-ac84-b2dfd7353089</webElementGuid>
+      <webElementGuid>94b1cc4c-bc0d-4bea-b3d0-07043aacd07d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>45cbdd82-c438-4603-947c-3ef9d927e28d</webElementGuid>
+      <webElementGuid>b8873169-9778-4678-9524-53a76287e9b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='register-form']/div[5]/button</value>
-      <webElementGuid>c9d86004-0d05-46d8-a7dd-58b272b8bac2</webElementGuid>
+      <webElementGuid>076a5565-3fe3-45d4-9d45-fab39ffac91e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[2]/following::button[1]</value>
-      <webElementGuid>eb5a74cf-1fe9-4da5-a08e-862f74e3c9a0</webElementGuid>
+      <webElementGuid>16fa2786-35c5-41eb-a513-a4e48385bb6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>7e314ea2-bf50-4bc2-b449-ac7d97f736e1</webElementGuid>
+      <webElementGuid>3d465362-d80f-469d-86dd-a4345502f4bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Đăng ký' or . = 'Đăng ký')]</value>
-      <webElementGuid>3cab196f-6ae3-45a3-9a7a-6ba3cfea9db1</webElementGuid>
+      <webElementGuid>20b1a1a6-66c9-4af4-8114-ed56348e8e6b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
