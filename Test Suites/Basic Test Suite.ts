@@ -497,4 +497,11 @@
       <testCaseId>Test Cases/Explore/TC47_Search Job With Invalid Params Field</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>4c3b549c-4c0c-4c07-b4a1-f436a731525e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Apply/TC48_Delete Duplicate Apply Job</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
